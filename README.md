@@ -1,7 +1,7 @@
 
 # Sistemas Embarcados - 2021.2
 
-#### <titudo_do_projeto>
+#### Monitoramento do solo por meio de sensores
 
 ### 1 - Descrição do projeto:
 
@@ -26,7 +26,7 @@ produtores.
   Especificos
  
 Em relação a interface com o usuário, pensamos em fazer uma aplicação web
-utilizando Flutter ou JavaScript onde serão dispostos os dados que os dispositivos
+utilizando JavaScript onde serão dispostos os dados que os dispositivos
 irão capturar.
 
 Falando um pouco mais a estrutura de Hardware, utilizaremos o Sensor DTH, para
