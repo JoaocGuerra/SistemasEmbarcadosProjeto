@@ -32,16 +32,15 @@ irão capturar.
 Falando um pouco mais a estrutura de Hardware, utilizaremos o Sensor DTH, para
 capturar os dados que seriam enviados para a porta analógica do arduino ou do
 ESP32. Esses dados poderiam ser armazenados ou processados de forma a
-resolver algum problema relacionado ao monitoramento do solo na agricultura.
+resolver algum problema relacionado ao monitoramento da 
+temperatura e e humidade na agricultura.
 
   
 ### 3 - Resumo das arquiteturas
-
-  O projeto ...
   
   1.  Hardware
 
-	- Arduino Uno ou ESP 32 (Caso seja necessário enviar dados por internet)
+	- ESP8266 (Caso seja necessário enviar dados por internet)
 	- Sensor de Temperatura e Humidade DHT11
 	- Mini protoboard
 	- Jumpers
