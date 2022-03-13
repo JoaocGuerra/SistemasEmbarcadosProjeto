@@ -53,6 +53,18 @@ temperatura e e humidade na agricultura.
   
 ### 4 - Resumo dos Resultados
 
+#### 4.1 Conceito parcial de Esquemático 
+
+![esquematico-removebg-preview](https://user-images.githubusercontent.com/34730673/158072884-72e2ccae-2250-4c82-8893-2eb0fb6ea141.png)
+
+
+#### 4.2 Conceito parcial de Modelo 3D
+
+![3D_packages-removebg-preview (1)](https://user-images.githubusercontent.com/34730673/158072890-0fe0b156-544c-40ac-a68f-f3b6983547e6.png)
+
+
+[Fusion 360 Online 3D](https://a360.co/3q3f3vH)
+
 ### 5 - Grupo
 
 * João Carlos Guerra de Abreu
