@@ -1,7 +1,7 @@
 
 # Sistemas Embarcados - 2021.2
 
-#### Monitoramento do solo por meio de sensores
+#### Monitoramento do de temperatura de humidade por meio de sensores
 
 ### 1 - Descrição do projeto:
 
