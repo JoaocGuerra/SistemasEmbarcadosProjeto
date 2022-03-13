@@ -8,9 +8,9 @@
 A agricultura familiar representa um contingente de 77% dos estabelecimentos
 agrícolas do país. Esse trabalho desempenhado por essas famílias necessita do uso
 de água para irrigação, sendo cada vez mais dependente da chamada agricultura de
-precisão, em que dispositivos analisam de maneira inteligente as condições da água
-e do solo, controlando o tempo e a quantidade de água necessária para o processo
-de irrigação. Pensando nisso, visamos desenvolver um sistema embarcado capaz de sanar 
+precisão, em que dispositivos analisam de maneira inteligente as condições da lavoura no 
+que diz respeito a temperatura e humidade controlando o tempo e a quantidade de água necessária 
+para o processo de irrigação. Pensando nisso, visamos desenvolver um sistema embarcado capaz de sanar 
 essas necessidades.
 
 
@@ -30,9 +30,9 @@ utilizando JavaScript onde serão dispostos os dados que os dispositivos
 irão capturar.
 
 Falando um pouco mais a estrutura de Hardware, utilizaremos o Sensor DTH, para
-capturar os dados que seriam enviados para a porta analógica do arduino ou do
-ESP32. Esses dados poderiam ser armazenados ou processados de forma a
-resolver algum problema relacionado ao monitoramento da 
+capturar os dados que seriam enviados para o ESP8266 de posse desses dados o ESP enviaria essas informações 
+para uma interface gráfica onde esses dados poderiam ser analisados, armazenados
+ou processados de forma a resolver algum problema relacionado ao monitoramento da 
 temperatura e e humidade na agricultura.
 
   
