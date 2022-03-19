@@ -67,11 +67,11 @@ temperatura e e humidade na agricultura.
 
 #### Para o 3D e PCB foram criados dois modelos: 
 
-1. Todos os fios na camada button porém o ESP8266 também ficou na parte de baixo da placa
-[Fusion 360 Online 3D Protótipo 1](https://a360.co/3JpDviy)
+1. Todos os fios na camada button porém o ESP8266 também ficou na parte de baixo da placa <br>
+- [Fusion 360 Online 3D Protótipo 1](https://a360.co/3JpDviy)
 
-2. Todos os componentes na camada superior porem um dos fios ficou fizemos ajustes na coneção com o ESP8266
-[Fusion 360 Online 3D Protótipo 2](https://a360.co/3q3f3vH)
+2. Todos os componentes na camada superior porem um dos fios ficou fizemos ajustes na coneção com o ESP8266 <br>
+- [Fusion 360 Online 3D Protótipo 2](https://a360.co/3q3f3vH)
 
 ### 5 - Grupo
 
