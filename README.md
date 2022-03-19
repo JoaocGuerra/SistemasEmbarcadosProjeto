@@ -59,7 +59,7 @@ temperatura e e humidade na agricultura.
 
 #### 4.2 Conceito parcial de Esquemático 
 
-![Screenshot_1-removebg-preview](https://user-images.githubusercontent.com/34730673/159098556-32ce6b23-423e-4b86-8d80-5624814ca7e4.png)
+![Screenshot_1-removebg-preview](https://user-images.githubusercontent.com/34730673/159098691-9c1c4b6d-ab9e-4f59-8238-9109283b3a3d.png)
 
 #### 4.3 Conceito parcial de Modelo 3D
 
