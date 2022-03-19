@@ -59,15 +59,13 @@ temperatura e e humidade na agricultura.
 
 #### 4.2 Conceito parcial de Esquemático 
 
-![Screenshot_2-removebg-preview](https://user-images.githubusercontent.com/34730673/158073083-214c03a3-aebd-4bd9-987e-2dc3f2998b2c.png)
-
-
+![image](https://user-images.githubusercontent.com/34730673/159098239-f07f22e2-b9ce-4772-a594-29fa42caf86c.png)
 
 #### 4.3 Conceito parcial de Modelo 3D
 
-![3D_packages-removebg-preview (1)](https://user-images.githubusercontent.com/34730673/158072890-0fe0b156-544c-40ac-a68f-f3b6983547e6.png)
+![Prototipo_2__allOnTop_-removebg-preview](https://user-images.githubusercontent.com/34730673/159098294-498de5f5-1405-4e39-9b3a-aa3879113b5b.png)
 
-## Nesse Ponto foram criados dois modelos: 
+#### Para o 3D e PCB foram criados dois modelos: 
 
 1. Todos os fios na camada button porém o ESP8266 também ficou na parte de baixo da placa
 [Fusion 360 Online 3D Protótipo 1](https://a360.co/3JpDviy)
