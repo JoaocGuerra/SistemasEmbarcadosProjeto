@@ -55,7 +55,13 @@ temperatura e e humidade na agricultura.
 
 #### 4.1 Documentação e Diagrama de Blocos
 
-> [Diagrama de Blocos comentado no Google Docs](https://docs.google.com/document/d/1OH0ySzCCkVx8VMb1BBHpwzDGqj-EqATqLdINgi41xL8/edit?usp=sharing)
+##### Diagrama de Blocos do Hardware  
+![Hardware blocks diagram](https://user-images.githubusercontent.com/34730673/159099091-e7b43c4e-7085-4290-95af-219675e2d9af.png)
+
+##### Design do Sistema em Blocos
+![Design do Sistema](https://user-images.githubusercontent.com/34730673/159099050-830811b8-282f-47d5-8c5b-43a0b3817582.png)
+
+> [Documentação no Google Docs](https://docs.google.com/document/d/1OH0ySzCCkVx8VMb1BBHpwzDGqj-EqATqLdINgi41xL8/edit?usp=sharing)
 
 #### 4.2 Conceito parcial de Esquemático 
 
