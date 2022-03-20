@@ -67,7 +67,7 @@ temperatura e e humidade na agricultura.
 
 #### Diagrama de Blocos da Aplicação Web
 
-![Diagrama_do_firmware-removebg-preview (1)](https://user-images.githubusercontent.com/34730673/159176716-f0f61577-2586-4355-a64f-693e540c6fef.png)
+![Diagrama_em_branco-removebg-preview](https://user-images.githubusercontent.com/34730673/159176802-6f57fe4a-069f-4af3-b4ce-96b109a3cb2e.png)
 
 
 > [Relatório Final](https://docs.google.com/document/d/1OH0ySzCCkVx8VMb1BBHpwzDGqj-EqATqLdINgi41xL8/edit?usp=sharing)
