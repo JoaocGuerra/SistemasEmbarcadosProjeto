@@ -61,7 +61,7 @@ temperatura e e humidade na agricultura.
 ##### Design do Sistema em Blocos
 ![Design do Sistema](https://user-images.githubusercontent.com/34730673/159099050-830811b8-282f-47d5-8c5b-43a0b3817582.png)
 
-> [Documentação no Google Docs](https://docs.google.com/document/d/1OH0ySzCCkVx8VMb1BBHpwzDGqj-EqATqLdINgi41xL8/edit?usp=sharing)
+> [Relatório Final](https://docs.google.com/document/d/1OH0ySzCCkVx8VMb1BBHpwzDGqj-EqATqLdINgi41xL8/edit?usp=sharing)
 
 #### 4.2 Conceito parcial de Esquemático 
 
