@@ -63,11 +63,13 @@ temperatura e e humidade na agricultura.
 
 #### Diagrama de Blocos do Firmware
 
-![Diagrama_do_firmware-removebg-preview](https://user-images.githubusercontent.com/34730673/159175371-ba336ffb-6944-458a-b940-ad21585d74ab.png)
+![Diagrama do firmware](https://user-images.githubusercontent.com/34730673/159177049-7a2b56b6-cdd0-4fdf-bdce-697229505b90.png)
+
 
 #### Diagrama de Blocos da Aplicação Web
 
-![Diagrama_em_branco-removebg-preview](https://user-images.githubusercontent.com/34730673/159176802-6f57fe4a-069f-4af3-b4ce-96b109a3cb2e.png)
+![Diagrama em branco](https://user-images.githubusercontent.com/34730673/159177013-56d4e1eb-f228-44d3-ab42-7f3c1d16926f.png)
+
 
 
 > [Relatório Final](https://docs.google.com/document/d/1OH0ySzCCkVx8VMb1BBHpwzDGqj-EqATqLdINgi41xL8/edit?usp=sharing)
