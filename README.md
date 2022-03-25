@@ -92,7 +92,7 @@ temperatura e e humidade na agricultura.
 
 #### Aplicação desenvolvida do zero independende do ESP8266
 
-Conforme apresentado no design ou arquitetura do sistema foi planejado a criaçao de um sistema com interface Web para mostrar ao usuário os dados coletados pelo sensor, essa aplicação pode ser acessada por esse link: (https://embbedded-dashboad.netlify.app/).
+Conforme apresentado no design ou arquitetura do sistema foi planejado a criaçao de um sistema com interface Web para mostrar ao usuário os dados coletados pelo sensor, essa aplicação pode ser acessada por esse link: (https://embedded-dashboad.netlify.app/).
 
 A aplicação faz um request no banco de dados a cada 5 segundos e atualiza a interface em tempo real, sem o usuário precisar pressionar f5 ou dar um refresh na pagina. Por questões de economia de banda o ESP-8266 não está ligado diariamente por isso os dados podem estar fixos. No entanto basta ligar o sensor, assim o que ESP8266 enviar os dados a aplicação é atualizada com as novas leituras. 
 
